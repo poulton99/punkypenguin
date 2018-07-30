@@ -1,0 +1,18 @@
+How to update 1.4.1 to 1.5.0 release
+
+- Replace www/js/controllers/controllers.js
+- Replace www/js/config.js
+- Replace www/js/data.js
+- Replace www/js/lib/oauth/woocommerce-oauth1.js
+- Replace www/index.html
+- Replace www/templates/about.html
+- Replace www/templates/home-grid-1.html
+- Replace www/templates/home-grid-2.html
+- Replace www/templates/product.html
+- Replace www/templates/products-grid-1.html
+- Replace www/templates/products-grid-2.html
+- Replace www/templates/products-grid-3.html
+- Replace www/css/style.css
+- Replace config.xml
+
+- Add www/js/lib/oauth/oauth-signature.js

@@ -1,0 +1,55 @@
+<strong>What about next Ionic WooCommerce API 1.6.x (NEXT)</strong>
+- [Task/Feature] v1 (/wp-json/wc/v1) REST API Integration
+- [Task/Feature] Search Products through the v1 REST API 
+
+<strong>Ionic WooCommerce API 1.5.0 (NEW)</strong>
+- [Task/Feature] Support both HMAC-SHA1 & and HMAC-SHA256 signature methods via the config.js (IMPORTANT: Add/Include in oyur index.html js/lib/oauth/oauth-signature.js)
+- [Task/Feature] Sale badge indicator for Products on Sale
+- [Task/Feature] Home Deals Slider connected dynamically to your preferred category via the config.js
+- [Documentation] 1.4.1 to 1.5.0 Update instructions
+
+<strong>Ionic WooCommerce API 1.4.1</strong>
+- [Task/Feature] Improve WooCommerce Product Variations support
+- [Task/Feature] Add specific Product Variation in the Cart / Order
+- [Bug: Resolved] Remove specific Product from the Cart / Empty Cart 
+
+<strong>Ionic WooCommerce API 1.4.0</strong>
+- [Task] Updated core Ionic Framework to the latest v1.3.1 "el salvador" release
+- [Feature] Add new Categories template (categories-cards.html) with Category Image and Category Description support
+- [Feature] View Customer Orders History
+- [Feature] Social Profiles Support
+- [Bug: Resolved] Encode non-latin Category Slug urls
+
+<strong>Ionic WooCommerce API 1.3.0</strong>
+- [Feature] Added PayPal Payment Support
+- [Feature] Add new Payment Page / State
+- [Feature] Add Cart Products to the Payments Page
+- [Feature] Remove individual product from the Cart
+- [Feature] WooCommerce REST API: View Index List - Retrieve a set of store information (Name, Description, URL, Currency, Currency Position, Meta Properties)
+- [Feature] New Global MetaData Service
+- [Feature] Cart’s Currency is retrieved from View Index List operation
+- [Feature] Dynamic Currency Position (right, left, right_space and left_space)
+- [Feature] Dynamic Application Name / Description: Data are retrieved from View Index List operation
+- [Bug: Resolved] Add Back Navigation support to all states
+- [Bug: Resolved] New State for Category Products with pattern /:category_slug/:category_name - Fix issue with Category name that consists of more than 2 words
+- [Task] New Ionic WooCommerce Video / Screenshots prepared
+
+<strong>Ionic WooCommerce API 1.2.1</strong>
+- [Task] Include all the appropriate Plugins in the project
+- [Task] Support Splash screens for iOS and Android (including base resources)
+- [Task] Added Content-Security-Policy meta tag
+- [Bug: Resolved] Fix White Screen in real Android 4.x devices
+
+<strong>Ionic WooCommerce API 1.2.0</strong>
+- [Feature: Added] Created New Customer (POST /wc-api/v3/customers) including Personal, Shipping and Billing information
+- [Feature: Added] Added Social Sharing support for all WooCommerce Products (Title, Description, Permalink)
+- [Task] Updated core Ionic Framework to v1.2.4 "Copenhagen" release
+- [Task] Published App to the IonicView (ID: 13c9b404) 
+
+<strong>Ionic WooCommerce API 1.1.0</strong>
+- [Bug: Resolved] Create Orders based on the verified User Customer Id
+- [Bug: Resolved] Create Orders for any User Customer Id
+- [Feature: Added] Enrich the Order Verification Window with the verified User Customer Information (First Name, Last Name, Customer Id, User Creation Date, Last Order Date, Username)
+
+<strong>Ionic WooCommerce API 1.0.0</strong>
+- Initial release

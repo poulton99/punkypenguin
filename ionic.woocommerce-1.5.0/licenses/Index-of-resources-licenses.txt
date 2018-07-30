@@ -1,0 +1,21 @@
+Ionic WooCommerce API comes bundled with a number of resources, the licenses of which are detailed below. 
+
+---------------------------------------------------------------------------------------------
+
+SIL Open Font License (OFL) (http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
+
+* Font Awesome – http://fortawesome.github.io/Font-Awesome/license/ 
+
+---------------------------------------------------------------------------------------------
+
+MIT (http://opensource.org/licenses/MIT)
+
+* Ionicframework - MIT License
+* AngularJS - MIT License
+* PhoneGap Social Sharing plugin - MIT License
+
+---------------------------------------------------------------------------------------------
+
+Apache License 2.0 (http://www.apache.org/licenses/LICENSE-2.0L)
+
+* Cordova EmailComposer Plugin - Apache License 2.0
